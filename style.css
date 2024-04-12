@@ -1,0 +1,133 @@
+body {
+    background-color: #FFCCD2;
+    color: #3C2317;
+    font-family: andale mono;
+    line-height: 20px;
+    text-align: center;
+}
+
+.btn-blue {
+background-color:#99154E;
+color: floralwhite;
+padding: 6px 20px;
+border-radius: 4px;
+}
+
+.btn-blue:hover {
+background-color:#EE9595;
+color: floralwhite;
+
+}
+
+h1 {
+    color: #99154E;
+    font-family: impact;
+    text-align: center;
+    letter-spacing: 0.25em;
+}
+
+a{
+    text-decoration: none;
+}
+h2, h3, h4 {
+    font-family: impact; 
+    letter-spacing: 0.15em;
+    color: rgb(8, 143, 143);
+}
+
+a {
+    text-decoration: none;
+    color: #FFDDCC;
+}
+
+a:hover {
+    color: rgb(255, 0, 127);
+}
+
+.profile {
+border-radius: 50%;
+max-width: 100%;
+height: auto;
+}
+
+
+#intro {
+background-color: #7897AB;
+
+}
+
+#intro p {
+margin-bottom: 20px;
+
+}
+#section2 {
+background-color: #C3DBD9;
+
+}
+
+#section3 {
+background-color: #FFDDCC;
+
+}
+
+#section4 {
+background-color: #ECB390;
+
+}
+
+#section5 {
+background-color: #EE9595;
+
+}
+.font-styles {
+    margin-bottom: 5px;
+    justify-content: center;
+    border-radius: 1px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    margin: 70px;
+    border: 2px solid;
+    padding: 12px;
+}
+
+.list-inline {
+list-style: none;
+padding-left: 0px;
+}
+
+.list-inline li {
+    display: inline;
+    padding: 10px;
+}
+
+.list-inline i {
+    font-size: 30px;
+    color: #FFDDCC;
+}
+
+.list-inline i:hover {
+    color: #99154E;
+}
+
+#section4 {
+  text-align: center;
+
+}
+
+.social-icon {
+    width: 40px; /* Smaller size for the icons */
+    height: 40px; /* Maintain the aspect ratio */
+    /* Other properties remain unchanged to keep them in line */
+}
+
+.interest-icons {
+    text-align: center; /* Center the icons in the div */
+    margin-top: 10px; /* Spacing above the icons */
+} 
+
+.elfsight-app-834d7745-25fa-4065-b200-c209efd16b5d {
+  margin: 0 auto;
+  display: flex;
+justify-content: center;
+align-items: center;
+
+}
